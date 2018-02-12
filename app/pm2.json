@@ -1,0 +1,9 @@
+{
+  "apps": [{
+    "name": "Bomber_man_socket_io",
+    "script": "app.js",
+    "env": {
+      "production": true
+    }
+  }]
+}
